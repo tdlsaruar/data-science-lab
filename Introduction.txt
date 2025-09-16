@@ -1,0 +1,116 @@
+Python is a high-level, interpreted programming language, it's widely used in data analytics, machine learning, and AI due to:
+
+Simple syntax: Easy to read and write.
+
+Libraries: Pandas, NumPy, Matplotlib ,Seaborn, SciPy
+
+Community support: Lots of tutorials and open - source resources.
+
+Use Case in Data Analytics: Reading datasets, cleaning data, performing calculations, visualizations.
+
+2.Python Installation In Windows:
+
+1.Go to Python.org and download the lates version (Python 3.x).
+2.Run the installer - Check "Add python to PATH" - Install.
+3.Verify installation of Command prompt:
+
+Go to bash :python --version
+
+3.Python IDE (PyCharm)
+PyCharm is an IDE specifically designed for python:
+
+Download: PyCharm (Community Edition is free)
+Feature: Code highlighting, debugging, virtual environment management, integration with jupyter notebook
+Alternative: VS code, Jupyter Notebook, Spyder.
+
+4.First Program in python:
+Python:#This is a simple python program # 
+print ("Hello,Python ")
+
+-print() display output.
+-python uses indentation to define blocks (no curly braces like c/c++).
+
+5.Comments, Variables, Datatypes, User-Inputs
+
+Comments: Single-line #This is a comment 
+-Multi-line:
+
+Python"""" This is a multi-line comment ""
+
+Variables: Store data with a name:
+
+Python
+age =25
+name ="Alice"
+
+Datatypes
+Numeric :int , float
+Text: str
+Boolean: True/False
+Example:
+
+Python:
+
+x=10        #int
+y=3.14      #float
+z= "Data"   #str
+flag = True #bool
+
+
+User Inputs:
+
+Python:
+name = input("Enter your name: ")
+age  =int(input("Enter your age : ") # Type casting
+
+print ("Hello, name, "you are", age, "years old")
+
+6.TypeCasting, Subtypes, Problem-Solving
+
+Type Casting 
+
+Convert between types:
+
+python:
+x= "10"
+y=int(x)   #string to integer 
+z=float(x) #string to float
+
+Subtypes Example
+-int: 0,-5,100
+-float: 3.14, -0.5
+
+Problem Solving
+Example: Add two numbers from user input:
+
+python:
+a = 10
+b = 3
+
+print (a+ b) #13
+print (a // b) # 3
+print (a>b and b<5) # True
+
+8.Conditional Statements:
+
+Decision -making using if, elif, else
+
+python:
+age= int(input("Enter your age: "))
+
+if age >=18
+print ("You are and adult.")
+
+elif age >= 13:
+print("You are a teenager. ")
+
+else:
+print ("You are a child.")
+
+
+
+
+This convers the basics for someone starting python in data analytics. Once these are clear, the next step would be loops, functions, lists, dictionaries, and using libraries like Pandas and NumPy for real datasets.
+
+
+
