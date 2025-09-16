@@ -1,12 +1,3 @@
-# data-science-lab
-A structured journey to mastering Python for Data Science (from foundations to expert level).
-# Data Science Lab 🧪
-
-A structured journey to mastering **Python for Data Science**.  
-This repository is divided into **3 phases**: Foundation → Practice → Expert.  
-Each phase has notes, exercises, and projects to track progress.
-
----
 
 ## 📌 Learning Roadmap
 
